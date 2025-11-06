@@ -182,7 +182,7 @@ export default function Portfolio() {
                   <h3 className="text-2xl font-bold mb-2">Master of Science (MSc)</h3>
                   <p className="text-purple-400 mb-2">Artificial Intelligence & Machine Learning</p>
                   <p className="text-gray-400 mb-2">Gujarat University, Ahmedabad, India</p>
-                  <p className="text-gray-400">Expected July 2025</p>
+                  <p className="text-gray-400">PERCENTAGE: 64%</p>
                 </div>
               </div>
             </div>
