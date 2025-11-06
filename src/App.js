@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Mail, Phone, Linkedin, Github, MapPin, Briefcase, GraduationCap, Code, Award, Globe, Menu, X, ExternalLink, ChevronDown } from 'lucide-react';
 import profilePic from './assets/download.jpg';
-import resumePDF from './assets/HARSHKUMAR PATEL_inter.pdf';  // Add this line
+import resumePDF from './assets/HARSHKUMAR PATEL_inter_amd.pdf';  // Add this line
 
 export default function Portfolio() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
