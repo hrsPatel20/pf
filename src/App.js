@@ -130,7 +130,7 @@ export default function Portfolio() {
               I'm an AI & ML Engineer with hands-on experience in developing and deploying machine learning, NLP, and computer vision solutions. I'm passionate about applying AI to solve real-world problems through model optimization, retrieval-augmented generation (RAG), and deep learning.
             </p>
             <p className="text-lg mb-6 leading-relaxed">
-              Currently completing my MSc in Artificial Intelligence & Machine Learning at Gujarat University (Expected July 2025), I specialize in building scalable data pipelines, integrating LLMs, and automating workflows using Python-based AI systems.
+              Completed MSc in Artificial Intelligence & Machine Learning at Gujarat University, I specialize in building scalable data pipelines, integrating LLMs, and automating workflows using Python-based AI systems.
             </p>
             <div className="flex items-center gap-2 text-purple-400">
               <MapPin size={20} />
